@@ -3,7 +3,7 @@
 // import banana3 from './app/assets/banana3.jpg';
 // import banana4 from './app/assets/banana4.jpg';
 
-export const translations = {
+export const translations: Record<string, any> = {
   pt: {
     hero: {
       tagline: "Excelência em produtos naturais",
