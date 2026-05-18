@@ -37,8 +37,8 @@ export default function Contato({ t }) {
 
                         <div className="space-y-4 sm:space-y-6 md:space-y-8 flex flex-col items-center">
                             {[
-                                { icon: <Phone size={16} />, label: c.phone, val: "+55 34 98811-9584", href: "tel:+5534988119584" },
-                                { icon: <Mail size={16} />, label: c.email, val: "aratticum@gmail.com", href: "mailto:aratticum@gmail.com" },
+                                { icon: <Phone size={16} />, label: c.phone, val: "+55 34 998717566", href: "tel:+5534998717566" },
+                                { icon: <Mail size={16} />, label: c.email, val: "sil.guedes68@gmail.com", href: "mailto:sil.guedes68@gmail.com" },
                                 { icon: <Smartphone size={16} />, label: c.instagram, val: "@flordearatticum", href: "https://instagram.com/flordearatticum" },
                             ].map((item, i) => (
                                 <a

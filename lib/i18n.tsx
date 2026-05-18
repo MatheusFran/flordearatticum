@@ -35,7 +35,7 @@ export const translations: Record<string, any> = {
       eyebrow: "Minha Jornada",
       title: "A História da Aratticum",
       quote: "Tradição encontra inovação",
-      p1: "Minha trajetória na economia criativa começou no campo da cultura e das artes, passando por diferentes técnicas artesanais até encontrar na cerâmica uma forma de expressar a identidade do cerrado mineiro e da cidade de Araguari. Hoje atuo como artesã ceramista, desenvolvendo peças autorais que unem arte, pertencimento e valorização do território.",
+      p1: "A História do Ateliê Flor de Aratticum começou no campo da cultura e das artes, passando por diferentes técnicas artesanais até encontrar na cerâmica uma forma de expressar a identidade do cerrado mineiro e da cidade de Araguari. Hoje atuo como artesã ceramista, desenvolvendo peças autorais que unem arte, pertencimento e valorização do território.",
       p2: "Ao longo dos últimos anos, busquei fortalecer meu trabalho por meio de capacitações e experiências profissionais, com apoio do Sebrae e atuação no Bosque Tania Bulhões, onde refinei minha produção técnica e estética voltada ao artesanato de alto valor agregado. Em 2025, a marca Aratticum conquistou o selo de sustentabilidade do Sebrae Nacional.",
       p3: "Meu trabalho conecta arte, sustentabilidade, inovação e identidade cultural, buscando expandir o artesanato brasileiro para novos mercados com apoio da Apex Brasil e Sebrae. Mais do que criar peças, acredito em resgatar saberes, reinventar processos e transformar o artesanato em ferramenta de expressão cultural e desenvolvimento criativo",
       stat1: "+5.000",
