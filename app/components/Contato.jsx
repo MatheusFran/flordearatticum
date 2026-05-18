@@ -1,4 +1,4 @@
-import { Phone, Mail, Globe, Instagram } from "lucide-react";
+import { Phone, Mail, Smartphone } from "lucide-react";
 
 export default function Contato({ t }) {
     const c = t.contact;
@@ -39,7 +39,7 @@ export default function Contato({ t }) {
                             {[
                                 { icon: <Phone size={16} />, label: c.phone, val: "+55 34 98811-9584", href: "tel:+5534988119584" },
                                 { icon: <Mail size={16} />, label: c.email, val: "aratticum@gmail.com", href: "mailto:aratticum@gmail.com" },
-                                { icon: <Instagram size={16} />, label: c.instagram, val: "@flordearatticum", href: "https://instagram.com/flordearatticum" },
+                                { icon: <Smartphone size={16} />, label: c.instagram, val: "@flordearatticum", href: "https://instagram.com/flordearatticum" },
                             ].map((item, i) => (
                                 <a
                                     key={i}
